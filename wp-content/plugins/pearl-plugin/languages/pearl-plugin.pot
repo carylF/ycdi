@@ -1,0 +1,1952 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pearl-plugin\n"
+"POT-Creation-Date: 2017-10-28 10:46+0500\n"
+"PO-Revision-Date: 2017-06-13 20:38+0500\n"
+"Last-Translator: \n"
+"Language-Team: PearlThemes <hello@pearlthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: admin/class-portfolio-post-type.php:18
+msgid "Portfolio"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:19
+#: admin/class-portfolio-post-type.php:53
+msgid "Portfolio Item"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:20
+msgid "Portfolio Item Archives"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:21
+msgid "Portfolio Item Attributes"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:22
+msgid "Parent Portfolio Item:"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:23
+msgid "All Portfolio Items"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:24
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:25
+msgid "Add New Item"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:26
+msgid "New Portfolio Item"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:27
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:28
+msgid "Update Portfolio Item"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:29
+msgid "View Portfolio Item"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:30
+msgid "View Portfolio Items"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:31
+msgid "Search Portfolio Item"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:32 admin/class-service-post-type.php:32
+#: admin/class-team-post-type.php:32 admin/class-testimonial-post-type.php:32
+msgid "Not found"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:33 admin/class-service-post-type.php:33
+#: admin/class-team-post-type.php:33 admin/class-testimonial-post-type.php:33
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:34
+msgid "Project Image"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:35
+msgid "Set Project image"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:36
+msgid "Remove Portfolio Item image"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:37
+msgid "Use as Portfolio Item image"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:38
+msgid "Insert into Portfolio Item"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:39
+msgid "Uploaded to this Portfolio Item"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:40
+msgid "Portfolio Items list"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:41
+msgid "Portfolio Items list navigation"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:42
+msgid "Filter Portfolio Items list"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:54
+msgid "A sample post type to help in developing custom post types in future themes."
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:86
+msgid "Project Categories"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:87
+msgid "All Categories"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:88
+msgid "Parent Category"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:89
+msgid "Parent Category:"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:90
+msgid "New Category Name"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:91
+msgid "Add New Category"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:92
+msgid "Edit Category"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:93
+msgid "Update Category"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:94
+msgid "View Category"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:95
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:96
+msgid "Add or remove Categories"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:97
+msgid "Choose from the most used"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:98
+msgid "Popular Categories"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:99
+msgid "Search Categories"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:100
+msgid "Not Found"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:101
+msgid "No Categories"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:102
+msgid "Categories list"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:103
+msgid "Categories list navigation"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:133
+msgid "Project Details"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:139
+msgid "Client Name"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:144
+msgid "Delivered Date"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:149
+msgid "Project URL"
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:159
+msgid "Minimum required project gallery image width is 1170px. The bigger size images will be cropped automatically and proportionally."
+msgstr ""
+
+#: admin/class-portfolio-post-type.php:185
+msgid "Enter project name here"
+msgstr ""
+
+#: admin/class-service-post-type.php:18
+msgid "Services"
+msgstr ""
+
+#: admin/class-service-post-type.php:19 admin/class-service-post-type.php:42
+msgid "Service"
+msgstr ""
+
+#: admin/class-service-post-type.php:20
+msgid "Service Archives"
+msgstr ""
+
+#: admin/class-service-post-type.php:21
+msgid "Service Attributes"
+msgstr ""
+
+#: admin/class-service-post-type.php:22
+msgid "Parent Service:"
+msgstr ""
+
+#: admin/class-service-post-type.php:23
+msgid "All Services"
+msgstr ""
+
+#: admin/class-service-post-type.php:24
+msgid "Add New Service"
+msgstr ""
+
+#: admin/class-service-post-type.php:25 admin/class-team-post-type.php:25
+#: admin/class-testimonial-post-type.php:25
+msgid "Add New"
+msgstr ""
+
+#: admin/class-service-post-type.php:26
+msgid "New Service"
+msgstr ""
+
+#: admin/class-service-post-type.php:27
+msgid "Edit Service"
+msgstr ""
+
+#: admin/class-service-post-type.php:28
+msgid "Update Service"
+msgstr ""
+
+#: admin/class-service-post-type.php:29
+msgid "View Service"
+msgstr ""
+
+#: admin/class-service-post-type.php:30
+msgid "View Services"
+msgstr ""
+
+#: admin/class-service-post-type.php:31
+msgid "Search Service"
+msgstr ""
+
+#: admin/class-service-post-type.php:34
+msgid "Insert into service"
+msgstr ""
+
+#: admin/class-service-post-type.php:35
+msgid "Uploaded to this service"
+msgstr ""
+
+#: admin/class-service-post-type.php:36
+msgid "Services list"
+msgstr ""
+
+#: admin/class-service-post-type.php:37
+msgid "Services list navigation"
+msgstr ""
+
+#: admin/class-service-post-type.php:38
+msgid "Filter services list"
+msgstr ""
+
+#: admin/class-service-post-type.php:43
+msgid "Services or services list."
+msgstr ""
+
+#: admin/class-service-post-type.php:82
+msgid "Service Detail"
+msgstr ""
+
+#: admin/class-service-post-type.php:88 vc-elements/elements/accordions.php:100
+#: vc-elements/elements/accordions.php:131
+#: vc-elements/elements/accordions.php:161
+#: vc-elements/elements/accordions.php:191
+#: vc-elements/elements/accordions.php:221
+#: vc-elements/elements/accordions.php:251
+#: vc-elements/elements/feature-box.php:56 vc-elements/elements/heading.php:63
+#: vc-elements/elements/pricing-table.php:108
+#: vc-elements/elements/service-item.php:52
+#: vc-elements/elements/subscription-form.php:44
+#: vc-elements/elements/tabs.php:44 vc-elements/elements/tabs.php:61
+#: vc-elements/elements/tabs.php:77 vc-elements/elements/tabs.php:93
+#: vc-elements/elements/tabs.php:109 vc-elements/elements/tabs.php:125
+msgid "Description"
+msgstr ""
+
+#: admin/class-service-post-type.php:96
+#: vc-elements/elements/call-to-action.php:42
+#: vc-elements/elements/feature-box.php:63
+#: vc-elements/elements/pricing-table.php:121
+msgid "Button Text"
+msgstr ""
+
+#: admin/class-service-post-type.php:101
+#: vc-elements/elements/call-to-action.php:49
+#: vc-elements/elements/feature-box.php:70
+#: vc-elements/elements/pricing-table.php:134
+msgid "Button URL"
+msgstr ""
+
+#: admin/class-service-post-type.php:126
+msgid "Enter service title here"
+msgstr ""
+
+#: admin/class-team-post-type.php:18
+msgid "Team"
+msgstr ""
+
+#: admin/class-team-post-type.php:19 admin/class-team-post-type.php:45
+msgid "Team Member"
+msgstr ""
+
+#: admin/class-team-post-type.php:20
+msgid "Team Archives"
+msgstr ""
+
+#: admin/class-team-post-type.php:21
+msgid "Team Attributes"
+msgstr ""
+
+#: admin/class-team-post-type.php:22
+msgid "Parent Team Memeber:"
+msgstr ""
+
+#: admin/class-team-post-type.php:23
+msgid "All Team"
+msgstr ""
+
+#: admin/class-team-post-type.php:24
+msgid "Add New Team Member"
+msgstr ""
+
+#: admin/class-team-post-type.php:26
+msgid "New Team Member"
+msgstr ""
+
+#: admin/class-team-post-type.php:27
+msgid "Edit Team Member"
+msgstr ""
+
+#: admin/class-team-post-type.php:28
+msgid "Update Team Member"
+msgstr ""
+
+#: admin/class-team-post-type.php:29
+msgid "View Team Member"
+msgstr ""
+
+#: admin/class-team-post-type.php:30
+msgid "View Team Members"
+msgstr ""
+
+#: admin/class-team-post-type.php:31
+msgid "Search Team Member"
+msgstr ""
+
+#: admin/class-team-post-type.php:34
+msgid "Team Member Photo"
+msgstr ""
+
+#: admin/class-team-post-type.php:35
+msgid "Set team member photo"
+msgstr ""
+
+#: admin/class-team-post-type.php:36
+msgid "Remove team member photo"
+msgstr ""
+
+#: admin/class-team-post-type.php:37
+msgid "Use as team member photo"
+msgstr ""
+
+#: admin/class-team-post-type.php:38
+msgid "Insert into post"
+msgstr ""
+
+#: admin/class-team-post-type.php:39
+msgid "Uploaded to this team member photo"
+msgstr ""
+
+#: admin/class-team-post-type.php:40
+msgid "Team Members list"
+msgstr ""
+
+#: admin/class-team-post-type.php:41
+msgid "Team Members list navigation"
+msgstr ""
+
+#: admin/class-team-post-type.php:42
+msgid "Filter Team Members list"
+msgstr ""
+
+#: admin/class-team-post-type.php:46
+msgid "Team members of the company or organisation."
+msgstr ""
+
+#: admin/class-team-post-type.php:84
+msgid "Team Member Details"
+msgstr ""
+
+#: admin/class-team-post-type.php:90
+msgid "Designation"
+msgstr ""
+
+#: admin/class-team-post-type.php:95
+msgid "Bio URL"
+msgstr ""
+
+#: admin/class-team-post-type.php:103
+msgid "Twitter URL"
+msgstr ""
+
+#: admin/class-team-post-type.php:108
+msgid "Facebook URL"
+msgstr ""
+
+#: admin/class-team-post-type.php:113
+msgid "Google+ URL"
+msgstr ""
+
+#: admin/class-team-post-type.php:118
+msgid "Instagram URL"
+msgstr ""
+
+#: admin/class-team-post-type.php:143
+msgid "Enter team member name here"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:18
+msgid "Testimonials"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:19
+#: admin/class-testimonial-post-type.php:45
+msgid "Testimonial"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:20
+msgid "Testimonial Archives"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:21
+msgid "Testimonial Attributes"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:22
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:23
+msgid "All Testimonials"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:24
+msgid "Add New Testimonial"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:26
+msgid "New Testimonial"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:27
+msgid "Edit Testimonial"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:28
+msgid "Update Testimonial"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:29
+msgid "View Testimonial"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:30
+msgid "View Testimonials"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:31
+msgid "Search Testimonial"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:34
+msgid "Author Photo"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:35
+msgid "Set author photo"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:36
+msgid "Remove author photo"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:37
+msgid "Use as author photo"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:38
+msgid "Insert into testimonial"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:39
+msgid "Uploaded to this testimonial"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:40
+msgid "Testimonials list"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:41
+msgid "Testimonials list navigation"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:42
+msgid "Filter testimonials list"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:46
+msgid "Users testimonials for the company or organisation."
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:84
+msgid "Testimonial Detail"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:90
+msgid "Company"
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:91
+msgid "Provide author company if available."
+msgstr ""
+
+#: admin/class-testimonial-post-type.php:116
+msgid "Enter author name here"
+msgstr ""
+
+#: includes/class-pearl-plugin.php:138
+msgid "Meta Box plugin has been deactivated!"
+msgstr ""
+
+#: includes/class-pearl-plugin.php:139 includes/class-pearl-plugin.php:157
+#: includes/class-pearl-plugin.php:175 includes/class-pearl-plugin.php:193
+#: includes/class-pearl-plugin.php:211
+msgid "Its functionality is embedded within the Pearl plugin."
+msgstr ""
+
+#: includes/class-pearl-plugin.php:142 includes/class-pearl-plugin.php:160
+#: includes/class-pearl-plugin.php:178 includes/class-pearl-plugin.php:196
+#: includes/class-pearl-plugin.php:214
+msgid "So, You should remove it completely from your plugins."
+msgstr ""
+
+#: includes/class-pearl-plugin.php:156
+msgid "Meta Box Columns plugin has been deactivated!"
+msgstr ""
+
+#: includes/class-pearl-plugin.php:174
+msgid "Meta Box Tabs plugin has been deactivated!"
+msgstr ""
+
+#: includes/class-pearl-plugin.php:192
+msgid "Meta Box Show Hide plugin has been deactivated!"
+msgstr ""
+
+#: includes/class-pearl-plugin.php:210
+msgid "Meta Box Group plugin has been deactivated!"
+msgstr ""
+
+#: plugins/meta-box/inc/clone.php:97
+msgid "+ Add more"
+msgstr ""
+
+#: plugins/meta-box/inc/core.php:41
+msgid "Documentation"
+msgstr ""
+
+#: plugins/meta-box/inc/core.php:42
+msgid "Extensions"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/autocomplete.php:20
+#: plugins/meta-box/inc/fields/autocomplete.php:79
+#: plugins/meta-box/inc/fields/autocomplete.php:94
+msgid "Delete"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/button.php:32
+msgid "Click me"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/checkbox.php:67
+msgid "Yes"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/checkbox.php:67
+msgid "No"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/file-input.php:19
+msgid "Select File"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/file-input.php:38
+#: plugins/meta-box/inc/fields/select.php:89
+msgid "Select"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/file-input.php:40
+msgid "Remove"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/file.php:21
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/file.php:23
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/file.php:79
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/key-value.php:126
+msgid "Key"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/key-value.php:127
+msgid "Value"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/map.php:61
+msgid "Find Address"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/oembed.php:64
+msgid "Embed HTML not available."
+msgstr ""
+
+#: plugins/meta-box/inc/fields/oembed.php:79
+msgid "Preview"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/post.php:36
+msgid "Select a post"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/post.php:41
+#: plugins/meta-box/inc/fields/taxonomy.php:52
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/select-advanced.php:46
+msgid "Select an item"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/select.php:89
+msgid "All"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/select.php:89
+#: vc-elements/elements/accordions.php:63
+msgid "None"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr ""
+
+#: plugins/meta-box/inc/fields/user.php:30
+msgid "Select an user"
+msgstr ""
+
+#: plugins/meta-box/inc/validation.php:47
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: public/pearl-mail-handler.php:18
+msgid "Unverified Nonce!"
+msgstr ""
+
+#: public/pearl-mail-handler.php:29
+msgid "Target Email address is not properly configured!"
+msgstr ""
+
+#: public/pearl-mail-handler.php:46
+msgid "Provided Email address is invalid!"
+msgstr ""
+
+#: public/pearl-mail-handler.php:51
+msgid "New message sent by"
+msgstr ""
+
+#: public/pearl-mail-handler.php:51
+msgid "using contact form at"
+msgstr ""
+
+#: public/pearl-mail-handler.php:52
+msgid "You have received a message from: "
+msgstr ""
+
+#: public/pearl-mail-handler.php:55
+msgid "Phone Number: "
+msgstr ""
+
+#: public/pearl-mail-handler.php:58
+msgid "Their additional message is as follows:"
+msgstr ""
+
+#: public/pearl-mail-handler.php:60
+#, php-format
+msgid "You can contact %1$s via email: %2$s"
+msgstr ""
+
+#: public/pearl-mail-handler.php:73
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#: public/pearl-mail-handler.php:78
+msgid "Server Error: WordPress mail function failed!"
+msgstr ""
+
+#: public/pearl-mail-handler.php:86
+msgid "Invalid Request !"
+msgstr ""
+
+#: public/pearl-short-codes.php:16 vc-elements/elements/contact-form.php:68
+msgid "Name*"
+msgstr ""
+
+#: public/pearl-short-codes.php:16 vc-elements/elements/contact-form.php:68
+msgid "*Please provide your name"
+msgstr ""
+
+#: public/pearl-short-codes.php:19 vc-elements/elements/contact-form.php:72
+msgid "Email*"
+msgstr ""
+
+#: public/pearl-short-codes.php:19 vc-elements/elements/contact-form.php:72
+msgid "*Please provide your Email Address"
+msgstr ""
+
+#: public/pearl-short-codes.php:22 vc-elements/elements/contact-details.php:43
+msgid "Phone"
+msgstr ""
+
+#: public/pearl-short-codes.php:25
+msgid "Website"
+msgstr ""
+
+#: public/pearl-short-codes.php:28
+msgid "Message"
+msgstr ""
+
+#: public/pearl-short-codes.php:35 vc-elements/elements/contact-form.php:84
+msgid "Send Message"
+msgstr ""
+
+#: public/pearl-short-codes.php:36
+msgid "Sending...."
+msgstr ""
+
+#: public/pearl-social-share.php:8
+msgid "Share this:"
+msgstr ""
+
+#: public/pearl-social-share.php:69
+msgid "No social button is specified."
+msgstr ""
+
+#: public/pearl-social-share.php:72
+msgid "Social button could not be found."
+msgstr ""
+
+#: vc-elements/elements/accordions.php:27
+msgid "Pearl Accordions"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:29
+msgid "Display accordions list."
+msgstr ""
+
+#: vc-elements/elements/accordions.php:30
+#: vc-elements/elements/blockquote.php:30 vc-elements/elements/blog.php:30
+#: vc-elements/elements/call-to-action.php:30
+#: vc-elements/elements/clients.php:30
+#: vc-elements/elements/contact-details.php:30
+#: vc-elements/elements/contact-form.php:30
+#: vc-elements/elements/dual-image.php:30
+#: vc-elements/elements/feature-box.php:30
+#: vc-elements/elements/feature-list.php:30
+#: vc-elements/elements/fun-facts.php:30 vc-elements/elements/heading.php:30
+#: vc-elements/elements/lead.php:30 vc-elements/elements/portfolio.php:30
+#: vc-elements/elements/pricing-table.php:30
+#: vc-elements/elements/service-item.php:30
+#: vc-elements/elements/services.php:30 vc-elements/elements/skills.php:30
+#: vc-elements/elements/subscription-form.php:30
+#: vc-elements/elements/tabs.php:30 vc-elements/elements/team.php:30
+#: vc-elements/elements/testimonials.php:30 vc-elements/elements/video.php:30
+msgid "Antarctica Theme"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:36
+msgid "Want to add icon before accordion title?"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:39
+#: vc-elements/elements/accordions.php:53
+#: vc-elements/elements/accordions.php:71 vc-elements/elements/tabs.php:142
+#: vc-elements/elements/tabs.php:156 vc-elements/elements/tabs.php:171
+msgid "Settings"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:45
+msgid "Accordions Style"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:49
+#: vc-elements/elements/pricing-table.php:42
+msgid "One"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:50
+#: vc-elements/elements/pricing-table.php:43
+msgid "Two"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:51
+#: vc-elements/elements/pricing-table.php:44
+msgid "Three"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:59
+msgid "Opened Accordion"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:64
+msgid "1st"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:65
+msgid "2nd"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:66
+msgid "3rd"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:67
+msgid "4th"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:68
+msgid "5th"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:69
+msgid "6th"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:79
+#: vc-elements/elements/accordions.php:110
+#: vc-elements/elements/accordions.php:140
+#: vc-elements/elements/accordions.php:170
+#: vc-elements/elements/accordions.php:200
+#: vc-elements/elements/accordions.php:230
+#: vc-elements/elements/pricing-table.php:59 vc-elements/elements/tabs.php:37
+#: vc-elements/elements/tabs.php:54 vc-elements/elements/tabs.php:70
+#: vc-elements/elements/tabs.php:86 vc-elements/elements/tabs.php:102
+#: vc-elements/elements/tabs.php:118
+msgid "Title"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:81
+#: vc-elements/elements/accordions.php:95
+#: vc-elements/elements/accordions.php:102
+msgid "1st Accordion"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:85
+#: vc-elements/elements/accordions.php:116
+#: vc-elements/elements/accordions.php:146
+#: vc-elements/elements/accordions.php:176
+#: vc-elements/elements/accordions.php:206
+#: vc-elements/elements/accordions.php:236
+#: vc-elements/elements/service-item.php:68
+msgid "Icon"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:94
+#: vc-elements/elements/accordions.php:125
+#: vc-elements/elements/accordions.php:155
+#: vc-elements/elements/accordions.php:185
+#: vc-elements/elements/accordions.php:215
+#: vc-elements/elements/accordions.php:245
+#: vc-elements/elements/service-item.php:77
+msgid "Select icon from library."
+msgstr ""
+
+#: vc-elements/elements/accordions.php:112
+#: vc-elements/elements/accordions.php:126
+#: vc-elements/elements/accordions.php:133
+msgid "2nd Accordion"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:142
+#: vc-elements/elements/accordions.php:156
+#: vc-elements/elements/accordions.php:163
+msgid "3rd Accordion"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:172
+#: vc-elements/elements/accordions.php:186
+#: vc-elements/elements/accordions.php:193
+msgid "4th Accordion"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:202
+#: vc-elements/elements/accordions.php:216
+#: vc-elements/elements/accordions.php:223
+msgid "5th Accordion"
+msgstr ""
+
+#: vc-elements/elements/accordions.php:232
+#: vc-elements/elements/accordions.php:246
+#: vc-elements/elements/accordions.php:253
+msgid "6th Accordion"
+msgstr ""
+
+#: vc-elements/elements/blockquote.php:27
+msgid "Pearl Blockquote"
+msgstr ""
+
+#: vc-elements/elements/blockquote.php:29
+msgid "Single blcokquote/testimonial with author."
+msgstr ""
+
+#: vc-elements/elements/blockquote.php:36 vc-elements/elements/video.php:68
+msgid "Author"
+msgstr ""
+
+#: vc-elements/elements/blockquote.php:39
+msgid "Provide blockquote/testimonial author name here."
+msgstr ""
+
+#: vc-elements/elements/blockquote.php:45
+msgid "Blockquote/Testimonial"
+msgstr ""
+
+#: vc-elements/elements/blockquote.php:48
+msgid "Provide blockquote/testimonial text here."
+msgstr ""
+
+#: vc-elements/elements/blog.php:27
+msgid "Pearl Blog"
+msgstr ""
+
+#: vc-elements/elements/blog.php:29
+msgid "Display blog posts."
+msgstr ""
+
+#: vc-elements/elements/blog.php:37 vc-elements/elements/portfolio.php:37
+msgid "Blog Style"
+msgstr ""
+
+#: vc-elements/elements/blog.php:41
+msgid "Blog Without Meta Info"
+msgstr ""
+
+#: vc-elements/elements/blog.php:42
+msgid "Blog With Top Meta Info"
+msgstr ""
+
+#: vc-elements/elements/blog.php:43
+msgid "Blog With Bottom Meta Info"
+msgstr ""
+
+#: vc-elements/elements/blog.php:45 vc-elements/elements/testimonials.php:37
+msgid "Choose a blog style you want to display posts in."
+msgstr ""
+
+#: vc-elements/elements/blog.php:51
+msgid "Blog URL"
+msgstr ""
+
+#: vc-elements/elements/blog.php:54
+msgid "Provide your blog page URL here."
+msgstr ""
+
+#: vc-elements/elements/blog.php:124
+msgid "posted in"
+msgstr ""
+
+#: vc-elements/elements/blog.php:132
+msgid "no comment"
+msgstr ""
+
+#: vc-elements/elements/blog.php:132
+msgid "1 comment"
+msgstr ""
+
+#: vc-elements/elements/blog.php:132
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: vc-elements/elements/blog.php:198
+msgid "Learn more about us"
+msgstr ""
+
+#: vc-elements/elements/call-to-action.php:27
+msgid "Pearl Call to Action"
+msgstr ""
+
+#: vc-elements/elements/call-to-action.php:29
+msgid "To display a call to action bar."
+msgstr ""
+
+#: vc-elements/elements/call-to-action.php:36
+msgid "Text"
+msgstr ""
+
+#: vc-elements/elements/clients.php:27
+msgid "Pearl Clients/Partners"
+msgstr ""
+
+#: vc-elements/elements/clients.php:29
+msgid "Display clients or partners."
+msgstr ""
+
+#: vc-elements/elements/clients.php:37
+msgid "1st Slot Image"
+msgstr ""
+
+#: vc-elements/elements/clients.php:44
+msgid "1st Slot URL"
+msgstr ""
+
+#: vc-elements/elements/clients.php:51
+msgid "2nd Slot Image"
+msgstr ""
+
+#: vc-elements/elements/clients.php:58
+msgid "2nd Slot URL"
+msgstr ""
+
+#: vc-elements/elements/clients.php:65
+msgid "3rd Slot Image"
+msgstr ""
+
+#: vc-elements/elements/clients.php:72
+msgid "3rd Slot URL"
+msgstr ""
+
+#: vc-elements/elements/clients.php:79
+msgid "4th Slot Image"
+msgstr ""
+
+#: vc-elements/elements/clients.php:86
+msgid "4th Slot URL"
+msgstr ""
+
+#: vc-elements/elements/clients.php:93
+msgid "5th Slot Image"
+msgstr ""
+
+#: vc-elements/elements/clients.php:100
+msgid "5th Slot URL"
+msgstr ""
+
+#: vc-elements/elements/clients.php:107
+msgid "6th Slot Image"
+msgstr ""
+
+#: vc-elements/elements/clients.php:114
+msgid "6th Slot URL"
+msgstr ""
+
+#: vc-elements/elements/clients.php:121
+msgid "7th Slot Image"
+msgstr ""
+
+#: vc-elements/elements/clients.php:128
+msgid "7th Slot URL"
+msgstr ""
+
+#: vc-elements/elements/clients.php:135
+msgid "8th Slot Image"
+msgstr ""
+
+#: vc-elements/elements/clients.php:142
+msgid "8th Slot URL"
+msgstr ""
+
+#: vc-elements/elements/clients.php:149
+msgid "9th Slot Image"
+msgstr ""
+
+#: vc-elements/elements/clients.php:156
+msgid "9th Slot URL"
+msgstr ""
+
+#: vc-elements/elements/clients.php:163
+msgid "Columns"
+msgstr ""
+
+#: vc-elements/elements/clients.php:172
+msgid "Border Separation"
+msgstr ""
+
+#: vc-elements/elements/clients.php:181
+msgid "Border Color"
+msgstr ""
+
+#: vc-elements/elements/contact-details.php:27
+msgid "Pearl Contact Details"
+msgstr ""
+
+#: vc-elements/elements/contact-details.php:29
+msgid "To display contact details with social profiles links."
+msgstr ""
+
+#: vc-elements/elements/contact-details.php:36
+#: vc-elements/elements/feature-box.php:42
+#: vc-elements/elements/feature-box.php:99 vc-elements/elements/heading.php:45
+#: vc-elements/elements/service-item.php:45
+#: vc-elements/elements/subscription-form.php:37
+#: vc-elements/elements/video.php:57
+msgid "Heading"
+msgstr ""
+
+#: vc-elements/elements/contact-details.php:51
+msgid "Fax"
+msgstr ""
+
+#: vc-elements/elements/contact-details.php:59
+msgid "Address"
+msgstr ""
+
+#: vc-elements/elements/contact-details.php:67
+msgid "Opening Time"
+msgstr ""
+
+#: vc-elements/elements/contact-details.php:77
+msgid "Facebook"
+msgstr ""
+
+#: vc-elements/elements/contact-details.php:85
+msgid "Twitter"
+msgstr ""
+
+#: vc-elements/elements/contact-details.php:93
+msgid "skype"
+msgstr ""
+
+#: vc-elements/elements/contact-details.php:101
+msgid "Vimeo"
+msgstr ""
+
+#: vc-elements/elements/contact-details.php:109
+msgid "Behance"
+msgstr ""
+
+#: vc-elements/elements/contact-details.php:159
+msgid "Location:"
+msgstr ""
+
+#: vc-elements/elements/contact-details.php:173
+msgid "Phone:"
+msgstr ""
+
+#: vc-elements/elements/contact-details.php:181
+msgid "Fax:"
+msgstr ""
+
+#: vc-elements/elements/contact-form.php:27
+msgid "Pearl Contact Form"
+msgstr ""
+
+#: vc-elements/elements/contact-form.php:29
+msgid "Contact form to stay in touch with your users."
+msgstr ""
+
+#: vc-elements/elements/contact-form.php:37
+msgid "Target Email Address"
+msgstr ""
+
+#: vc-elements/elements/contact-form.php:38
+msgid "Provide a target email address where you would like to receive the contact form requests"
+msgstr ""
+
+#: vc-elements/elements/contact-form.php:76
+msgid "Your Message"
+msgstr ""
+
+#: vc-elements/elements/custom/custom_param.php:20
+#: vc-elements/elements/custom/custom_param.php:30
+msgid "Add New Field"
+msgstr ""
+
+#: vc-elements/elements/dual-image.php:27
+msgid "Pearl Dual Image"
+msgstr ""
+
+#: vc-elements/elements/dual-image.php:29
+msgid "Dual image box with hyperlink."
+msgstr ""
+
+#: vc-elements/elements/dual-image.php:35
+msgid "Left Image"
+msgstr ""
+
+#: vc-elements/elements/dual-image.php:41
+msgid "Left Image Link"
+msgstr ""
+
+#: vc-elements/elements/dual-image.php:47
+msgid "Right Image"
+msgstr ""
+
+#: vc-elements/elements/dual-image.php:53
+msgid "Right Image Link"
+msgstr ""
+
+#: vc-elements/elements/feature-box.php:27
+msgid "Pearl Feature Box"
+msgstr ""
+
+#: vc-elements/elements/feature-box.php:29
+msgid "Feature box to list any single feature or service."
+msgstr ""
+
+#: vc-elements/elements/feature-box.php:35 vc-elements/elements/heading.php:36
+msgid "Smart Heading"
+msgstr ""
+
+#: vc-elements/elements/feature-box.php:49 vc-elements/elements/heading.php:54
+msgid "Smart Description"
+msgstr ""
+
+#: vc-elements/elements/feature-box.php:76
+#: vc-elements/elements/feature-list.php:37
+msgid "Feature Box Style"
+msgstr ""
+
+#: vc-elements/elements/feature-box.php:83
+#: vc-elements/elements/feature-box.php:94
+#: vc-elements/elements/feature-box.php:105
+#: vc-elements/elements/feature-box.php:116
+#: vc-elements/elements/feature-box.php:127
+#: vc-elements/elements/feature-box.php:138
+#: vc-elements/elements/feature-box.php:152
+#: vc-elements/elements/feature-box.php:167
+#: vc-elements/elements/feature-box.php:184
+msgid "Style"
+msgstr ""
+
+#: vc-elements/elements/feature-box.php:88
+msgid "Feature Box Content Alignment"
+msgstr ""
+
+#: vc-elements/elements/feature-box.php:110
+msgid "Smart Description Color"
+msgstr ""
+
+#: vc-elements/elements/feature-box.php:121
+msgid "Smart Description Style"
+msgstr ""
+
+#: vc-elements/elements/feature-box.php:132
+msgid "Description Style"
+msgstr ""
+
+#: vc-elements/elements/feature-box.php:144
+msgid "Button Type"
+msgstr ""
+
+#: vc-elements/elements/feature-box.php:157
+msgid "Button Color"
+msgstr ""
+
+#: vc-elements/elements/feature-box.php:172
+msgid "Button Size"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:27
+msgid "Pearl Feature List"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:29
+msgid "Display a bunch of features with a featured image."
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:48
+msgid "Featured Image"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:53
+#: vc-elements/elements/feature-list.php:77
+#: vc-elements/elements/feature-list.php:177
+msgid "CSS Animation"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:61
+#: vc-elements/elements/feature-list.php:85
+#: vc-elements/elements/feature-list.php:185
+#: vc-elements/elements/heading.php:75 vc-elements/elements/heading.php:87
+#: vc-elements/elements/heading.php:111 vc-elements/elements/tabs.php:166
+msgid "Default"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:63
+#: vc-elements/elements/feature-list.php:87
+#: vc-elements/elements/feature-list.php:187
+msgid "Top to bottom"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:64
+#: vc-elements/elements/feature-list.php:88
+#: vc-elements/elements/feature-list.php:188
+msgid "Bottom to top"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:65
+#: vc-elements/elements/feature-list.php:89
+#: vc-elements/elements/feature-list.php:189
+msgid "Left to right"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:66
+#: vc-elements/elements/feature-list.php:90
+#: vc-elements/elements/feature-list.php:190
+msgid "Right to left"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:67
+#: vc-elements/elements/feature-list.php:91
+#: vc-elements/elements/feature-list.php:191
+msgid "Appear from center"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:103
+#: vc-elements/elements/feature-list.php:203
+msgid "1st Heading"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:111
+#: vc-elements/elements/feature-list.php:211
+msgid "1st Description"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:119
+#: vc-elements/elements/feature-list.php:219
+msgid "1st Icon Image"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:128
+#: vc-elements/elements/feature-list.php:228
+msgid "2nd Heading"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:136
+#: vc-elements/elements/feature-list.php:236
+msgid "2nd Description"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:144
+#: vc-elements/elements/feature-list.php:244
+msgid "2nd Icon Image"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:153
+#: vc-elements/elements/feature-list.php:253
+msgid "3rd Heading"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:161
+#: vc-elements/elements/feature-list.php:261
+msgid "3rd Description"
+msgstr ""
+
+#: vc-elements/elements/feature-list.php:169
+#: vc-elements/elements/feature-list.php:269
+msgid "3rd Icon Image"
+msgstr ""
+
+#: vc-elements/elements/fun-facts.php:27
+msgid "Pearl Fun Facts"
+msgstr ""
+
+#: vc-elements/elements/fun-facts.php:29
+msgid "Display fun facts counter."
+msgstr ""
+
+#: vc-elements/elements/fun-facts.php:37
+msgid "1st Title"
+msgstr ""
+
+#: vc-elements/elements/fun-facts.php:43
+msgid "1st Counter"
+msgstr ""
+
+#: vc-elements/elements/fun-facts.php:49
+msgid "2nd Title"
+msgstr ""
+
+#: vc-elements/elements/fun-facts.php:55
+msgid "2nd Counter"
+msgstr ""
+
+#: vc-elements/elements/fun-facts.php:61
+msgid "3rd Title"
+msgstr ""
+
+#: vc-elements/elements/fun-facts.php:67
+msgid "3rd Counter"
+msgstr ""
+
+#: vc-elements/elements/fun-facts.php:73
+msgid "4th Title"
+msgstr ""
+
+#: vc-elements/elements/fun-facts.php:79
+msgid "4th Counter"
+msgstr ""
+
+#: vc-elements/elements/heading.php:27
+msgid "Pearl Heading"
+msgstr ""
+
+#: vc-elements/elements/heading.php:29
+msgid "Main Heading."
+msgstr ""
+
+#: vc-elements/elements/heading.php:38
+msgid "Smart heading will be displayed above main heading."
+msgstr ""
+
+#: vc-elements/elements/heading.php:47
+msgid "Provide main heading here."
+msgstr ""
+
+#: vc-elements/elements/heading.php:56
+msgid "Smart description will be displayed right after main heading."
+msgstr ""
+
+#: vc-elements/elements/heading.php:65
+msgid "Provide long description here."
+msgstr ""
+
+#: vc-elements/elements/heading.php:72
+msgid "Heading Style"
+msgstr ""
+
+#: vc-elements/elements/heading.php:76
+msgid "Bold"
+msgstr ""
+
+#: vc-elements/elements/heading.php:84
+msgid "Heading Color Style"
+msgstr ""
+
+#: vc-elements/elements/heading.php:88
+msgid "White"
+msgstr ""
+
+#: vc-elements/elements/heading.php:96
+msgid "Text Alignment"
+msgstr ""
+
+#: vc-elements/elements/heading.php:99
+msgid "Center"
+msgstr ""
+
+#: vc-elements/elements/heading.php:100
+msgid "Left"
+msgstr ""
+
+#: vc-elements/elements/heading.php:108
+msgid "Smart Heading Style"
+msgstr ""
+
+#: vc-elements/elements/heading.php:112
+msgid "Fade"
+msgstr ""
+
+#: vc-elements/elements/heading.php:120
+msgid "Separator Style"
+msgstr ""
+
+#: vc-elements/elements/heading.php:123
+msgid "First"
+msgstr ""
+
+#: vc-elements/elements/heading.php:124
+msgid "Second"
+msgstr ""
+
+#: vc-elements/elements/lead.php:27
+msgid "Pearl Lead Note"
+msgstr ""
+
+#: vc-elements/elements/lead.php:29
+msgid "To display a lead statement."
+msgstr ""
+
+#: vc-elements/elements/lead.php:37
+msgid "Lead Text"
+msgstr ""
+
+#: vc-elements/elements/portfolio.php:27
+msgid "Pearl Portfolio"
+msgstr ""
+
+#: vc-elements/elements/portfolio.php:29
+msgid "Display portfolio posts."
+msgstr ""
+
+#: vc-elements/elements/portfolio.php:41
+msgid "FullWidth"
+msgstr ""
+
+#: vc-elements/elements/portfolio.php:42
+msgid "Float"
+msgstr ""
+
+#: vc-elements/elements/portfolio.php:43
+msgid "Sorter"
+msgstr ""
+
+#: vc-elements/elements/portfolio.php:44
+msgid "Carousel"
+msgstr ""
+
+#: vc-elements/elements/portfolio.php:46
+msgid "Choose a portfolio style you want to display projects in."
+msgstr ""
+
+#: vc-elements/elements/portfolio.php:52
+msgid "No of Projects"
+msgstr ""
+
+#: vc-elements/elements/portfolio.php:53
+msgid "Select a number of projects you want to display."
+msgstr ""
+
+#: vc-elements/elements/portfolio.php:103
+msgid "All Projects"
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:27
+msgid "Pearl Pricing Table"
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:29
+msgid "Pricing Tables."
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:39
+msgid "Pricing Table Style"
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:46
+#: vc-elements/elements/pricing-table.php:53
+#: vc-elements/elements/pricing-table.php:62
+#: vc-elements/elements/pricing-table.php:75
+#: vc-elements/elements/pricing-table.php:84
+#: vc-elements/elements/pricing-table.php:93
+#: vc-elements/elements/pricing-table.php:102
+#: vc-elements/elements/pricing-table.php:115
+#: vc-elements/elements/pricing-table.php:128
+#: vc-elements/elements/pricing-table.php:141
+msgid "Basic"
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:50
+msgid "Mark this table as recommended/highlighted ?"
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:61
+msgid "Provide table title."
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:68
+msgid "Sub Title"
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:70
+msgid "Provide table sub title."
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:81
+msgid "Currency"
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:83
+msgid "Provide currency e.g: $"
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:90
+msgid "Price"
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:92
+msgid "Provide table price."
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:99
+msgid "Prefix Text"
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:101
+msgid "Provide price prefix text e.g: Per Month"
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:110
+msgid "Provide table description."
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:123
+msgid "Provide table button text e.g: Sign Up"
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:136
+msgid "Provide table button URL."
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:147
+msgid "Pricing Table Fields"
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:170
+msgid "Basic Plan"
+msgstr ""
+
+#: vc-elements/elements/pricing-table.php:174
+msgid "Per Month"
+msgstr ""
+
+#: vc-elements/elements/service-item.php:27
+msgid "Pearl Service Item"
+msgstr ""
+
+#: vc-elements/elements/service-item.php:29
+msgid "Single service item."
+msgstr ""
+
+#: vc-elements/elements/service-item.php:37
+msgid "Service Style"
+msgstr ""
+
+#: vc-elements/elements/service-item.php:59
+msgid "Icon Image"
+msgstr ""
+
+#: vc-elements/elements/services.php:27
+msgid "Pearl Services Carousel"
+msgstr ""
+
+#: vc-elements/elements/services.php:29
+msgid "List of added services."
+msgstr ""
+
+#: vc-elements/elements/services.php:37
+msgid "No of Services"
+msgstr ""
+
+#: vc-elements/elements/services.php:38
+msgid "Select a number of services you want to display."
+msgstr ""
+
+#: vc-elements/elements/skills.php:27
+msgid "Pearl Skills"
+msgstr ""
+
+#: vc-elements/elements/skills.php:29
+msgid "Display Skill Bars."
+msgstr ""
+
+#: vc-elements/elements/skills.php:37
+msgid "Skill 1st"
+msgstr ""
+
+#: vc-elements/elements/skills.php:44
+msgid "Skill 2nd"
+msgstr ""
+
+#: vc-elements/elements/skills.php:51
+msgid "Skill 3rd"
+msgstr ""
+
+#: vc-elements/elements/skills.php:58
+msgid "Skill 4th"
+msgstr ""
+
+#: vc-elements/elements/skills.php:65
+msgid "Skill 5th"
+msgstr ""
+
+#: vc-elements/elements/skills.php:72
+msgid "Skill 6th"
+msgstr ""
+
+#: vc-elements/elements/subscription-form.php:27
+msgid "Pearl Subscription"
+msgstr ""
+
+#: vc-elements/elements/subscription-form.php:29
+msgid "Display subscription form."
+msgstr ""
+
+#: vc-elements/elements/subscription-form.php:51
+msgid "Note"
+msgstr ""
+
+#: vc-elements/elements/subscription-form.php:58
+msgid "Form Submission URL"
+msgstr ""
+
+#: vc-elements/elements/subscription-form.php:59
+msgid "Add a url where you want to submit the subscription form."
+msgstr ""
+
+#: vc-elements/elements/subscription-form.php:67
+msgid "Name of the \"Your Name\" field."
+msgstr ""
+
+#: vc-elements/elements/subscription-form.php:75
+msgid "Name of the \"Email Address\" field."
+msgstr ""
+
+#: vc-elements/elements/tabs.php:27
+msgid "Pearl Tabs"
+msgstr ""
+
+#: vc-elements/elements/tabs.php:29
+msgid "Display tabs section."
+msgstr ""
+
+#: vc-elements/elements/tabs.php:39 vc-elements/elements/tabs.php:46
+msgid "1st Tab"
+msgstr ""
+
+#: vc-elements/elements/tabs.php:56 vc-elements/elements/tabs.php:63
+msgid "2nd Tab"
+msgstr ""
+
+#: vc-elements/elements/tabs.php:72 vc-elements/elements/tabs.php:79
+msgid "3rd Tab"
+msgstr ""
+
+#: vc-elements/elements/tabs.php:88 vc-elements/elements/tabs.php:95
+msgid "4th Tab"
+msgstr ""
+
+#: vc-elements/elements/tabs.php:104 vc-elements/elements/tabs.php:111
+msgid "5th Tab"
+msgstr ""
+
+#: vc-elements/elements/tabs.php:120 vc-elements/elements/tabs.php:127
+msgid "6th Tab"
+msgstr ""
+
+#: vc-elements/elements/tabs.php:135
+msgid "Tabs Style"
+msgstr ""
+
+#: vc-elements/elements/tabs.php:139
+msgid "Horizontal"
+msgstr ""
+
+#: vc-elements/elements/tabs.php:140
+msgid "Vertical"
+msgstr ""
+
+#: vc-elements/elements/tabs.php:148
+msgid "Tabs Length"
+msgstr ""
+
+#: vc-elements/elements/tabs.php:152
+msgid "Full"
+msgstr ""
+
+#: vc-elements/elements/tabs.php:153
+msgid "Auto"
+msgstr ""
+
+#: vc-elements/elements/tabs.php:162
+msgid "Color Scheme"
+msgstr ""
+
+#: vc-elements/elements/tabs.php:167
+msgid "Sky Blue"
+msgstr ""
+
+#: vc-elements/elements/tabs.php:168
+msgid "Dark"
+msgstr ""
+
+#: vc-elements/elements/team.php:27
+msgid "Pearl Team"
+msgstr ""
+
+#: vc-elements/elements/team.php:29
+msgid "Display team members."
+msgstr ""
+
+#: vc-elements/elements/team.php:37
+msgid "Team Style"
+msgstr ""
+
+#: vc-elements/elements/team.php:41
+msgid "Overlay"
+msgstr ""
+
+#: vc-elements/elements/team.php:42
+msgid "Simple"
+msgstr ""
+
+#: vc-elements/elements/team.php:44
+msgid "Choose a team style you want to display members in."
+msgstr ""
+
+#: vc-elements/elements/testimonials.php:27
+msgid "Pearl Testimonials"
+msgstr ""
+
+#: vc-elements/elements/testimonials.php:29
+msgid "Display testimonials carousel."
+msgstr ""
+
+#: vc-elements/elements/testimonials.php:36
+msgid "Number of Testimonial Posts"
+msgstr ""
+
+#: vc-elements/elements/video.php:27
+msgid "Pearl Video"
+msgstr ""
+
+#: vc-elements/elements/video.php:29
+msgid "Display video with a heading and author name."
+msgstr ""
+
+#: vc-elements/elements/video.php:36
+msgid "Video Style"
+msgstr ""
+
+#: vc-elements/elements/video.php:46
+msgid "Image for Video"
+msgstr ""
+
+#: vc-elements/elements/video.php:79
+msgid "Video URL"
+msgstr ""
+
+#: widgets/pearl-ad-widget.php:58
+msgid "Recommended"
+msgstr ""
+
+#: widgets/pearl-ad-widget.php:63 widgets/pearl-recent-posts-widget.php:102
+msgid "Title:"
+msgstr ""
+
+#: widgets/pearl-ad-widget.php:67
+msgid "Image URL:"
+msgstr ""
+
+#: widgets/pearl-ad-widget.php:69
+msgid "You can provide any image URL from media library or an external source."
+msgstr ""
+
+#: widgets/pearl-ad-widget.php:72
+msgid "Link URL:"
+msgstr ""
+
+#: widgets/pearl-ad-widget.php:74
+msgid "Provide the url to which you want link above image."
+msgstr ""
+
+#: widgets/pearl-recent-posts-widget.php:78
+msgid "No Posts Found!"
+msgstr ""
+
+#: widgets/pearl-recent-posts-widget.php:96
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/pearl-recent-posts-widget.php:97
+msgid "3"
+msgstr ""
+
+#: widgets/pearl-recent-posts-widget.php:98
+msgid "recent"
+msgstr ""
+
+#: widgets/pearl-recent-posts-widget.php:109
+msgid "Number of Posts"
+msgstr ""
+
+#: widgets/pearl-recent-posts-widget.php:116
+msgid "Sort By:"
+msgstr ""
+
+#: widgets/pearl-recent-posts-widget.php:120
+msgid "Most Recent"
+msgstr ""
+
+#: widgets/pearl-recent-posts-widget.php:122
+msgid "Random"
+msgstr ""

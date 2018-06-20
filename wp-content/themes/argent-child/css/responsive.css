@@ -1,0 +1,232 @@
+/* For small screens and tablets */
+
+@media only screen and (max-width: 1150px) {
+    .row-fixed {
+        display: block;
+        float: none;
+        width: 770px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .banner {
+        padding-bottom: 10px;
+    }
+    .banner-content {
+        min-height: 700px;
+    }
+    .banner .text h1 {
+        font-size: 46px;
+    }
+    .about .img-border {
+        display: none;
+    }
+    .about .about-text {
+        width: 100%;
+    }
+    .heading_bg {
+        font-size: 9em;
+    }
+    .team .team-single {
+        width: 50%;
+        margin-bottom: 25px;
+    }
+    .footer .text-column {
+        width: 100%;
+    }
+}
+/* For small mobiles and small tablets */
+
+@media only screen and (max-width: 767px) {
+    .row-fixed {
+        display: block;
+        float: none;
+        width: 450px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .col,
+    .col-2,
+    .col-3,
+    .col-4,
+    .col-5,
+    .col-60,
+    .col-40,
+    .col-70,
+    .col-30,
+    .col-pd-2,
+    .col-pd-3,
+    .col-pd-4,
+    .col-pd-5,
+    .col-pd-60,
+    .col-pd-40,
+    .col-pd-70,
+    .col-pd-30 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        width: auto;
+    }
+    .header {
+        padding-bottom: 0;
+    }
+    .header .logo {
+        z-index: 9999999;
+        position: relative;
+        float: left;
+    }
+    .header .menu {
+        float: none;
+        margin-top: 0;
+        margin-bottom: 0;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+    }
+    .header .menu li.active a {
+        color: #fff;
+        border-bottom: 0;
+    }
+    .header .menu li a {
+        font-size: 15px;
+        font-weight: 300;
+    }
+    .sub-menu {
+        opacity: 1;
+        position: relative;
+        transition: all 0.3s ease 0s;
+        visibility: visible;
+    }
+    .heading_bg {
+        font-size: 5em;
+        top: -10px;
+        font-weight: bold;
+    }
+    .banner {
+        height: auto;
+    }
+    .banner-content {
+        min-height: 650px;
+    }
+    .banner .text {
+        padding-top: 50px !important;
+        padding-bottom: 10px !important;
+        width: 100%;
+    }
+    .banner .text h3 {
+        font-size: 28px;
+    }
+    .banner .text h2.headline {
+        font-size: 46px;
+        letter-spacing: 1px;
+    }
+    .banner .text p {
+        letter-spacing: 2px;
+    }
+    .about p {
+        margin-bottom: 15px;
+    }
+    .team .team-single {
+        float: left;
+    }
+    .section {
+        padding: 30px 0;
+    }
+    .section-heading h3 {
+        font-size: 28px;
+    }
+    .breadcrumb h4 {
+        font-size: 24px;
+    }
+    .social-footer ul li a {
+        padding: 0 20px;
+    }
+    .footer p {
+        font-weight: 300;
+        font-size: 12px;
+    }
+    .section-title {
+        text-align: center;
+    }
+    .contact-area .col-pd-2 {
+        margin-bottom: 35px;
+    }
+    .contact-area .col-pd-2:nth-child(2n) {
+        padding: 0 15px;
+    }
+    .contact-area .col-pd-2:nth-child(2n) h3,
+    .contact-area .col-pd-2 p {
+        text-align: left;
+    }
+    .field-wrapper-half {
+        width: 100%;
+    }
+    .services-area .border-right,
+    .services-area .border-bottom {
+        border: 0;
+    }
+    .services-area .service-single {
+        padding: 20px;
+    }
+    .banner-bottom .text p {
+        font-size: 18px;
+    }
+    .banner-bottom .button a {
+        display: block;
+        margin-top: 15px;
+        text-align: center;
+    }
+    .sidebar {
+        margin-top: 60px;
+    }
+}
+/* For small mobile screens */
+
+@media only screen and (max-width: 480px) {
+    .row-fixed {
+        display: block;
+        float: none;
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .heading_bg {
+        font-size: 4em;
+        top: -10px;
+        font-weight: bold;
+    }
+    .banner-content {
+        min-height: 550px;
+    }
+    .banner .text {
+        width: 100%;
+    }
+    .banner .text h3 {
+        font-size: 22px;
+    }
+    .banner .text h1 {
+        font-size: 32px;
+    }
+    .team .team-single {
+        float: none;
+        width: auto;
+    }
+    .social-footer ul li a {
+        padding: 0 15px;
+    }
+    .banner-bottom .text p {
+        font-size: 16px;
+    }
+    .contact-area .col-2 p {
+        text-align: left;
+    }
+    .contact-area .col-2 .section-title {
+        text-align: left;
+    }
+    .portfolio-menu button {
+        padding: 6px;
+        font-size: 11px;
+    }
+}

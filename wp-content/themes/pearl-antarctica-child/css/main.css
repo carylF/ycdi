@@ -1,0 +1,28 @@
+
+.main-container {
+  padding-top: 0px;
+}
+
+.main-container.fluid-page {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+@media (min-width: 992px) {
+  .main-container {
+    padding-top: 0px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .main-container {
+    padding-top: 0px;
+  }
+}
+
+
+@media (min-width: 1200px)
+.header-three, .header-four, .header-one {
+    padding-bottom: 0px !important;
+}
+

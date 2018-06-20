@@ -1,0 +1,57 @@
+.sidebar-pearl-custom{
+    position: relative;
+}
+
+.pearl-custom-sidebar-area-delete{
+    height:24px;
+    width: 24px;
+    position: absolute;
+    z-index: 100;
+    top: 11px;
+    right: 38px;
+    font-size: 24px;
+}
+
+.pearl-custom-sidebar-area-delete:hover{
+    cursor: pointer;
+    color: #CB4A1F;
+}
+
+.activate_spinner{
+    visibility: visible;
+}
+
+.pearl-add-widget {
+    background-color: #FFF;
+    padding: 28px 10px;
+    text-align: center;
+    margin: 10px 0 0 0;
+    border: 1px solid #E5E5E5;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+
+.pearl-add-widget h3 {
+    margin-top: 0;
+}
+
+#wpwrap .pearl-add-widget .pearl_button {
+    margin-top: 7px;
+    padding: 13px 17px;
+    position: relative;
+    background-color: #04befc;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+    cursor: pointer;
+}
+#wpwrap .pearl-add-widget .pearl_button:hover {
+    background-color: #0ba6d8;
+}
+#wpwrap .pearl-add-widget .pearl_style_wrap input{
+    line-height: 19px;
+    padding: 10px;
+    width: 52%;
+}
+.pearl-add-widget .pearl_style_wrap { max-width: 95%; background: transparent; }

@@ -1,0 +1,11 @@
+.vc_edit_form_elements input.pearl_clone_one_field {
+    width: 92%;
+    margin-right: 12px;
+    margin-bottom: 6px;
+}
+.vc_btn.remove_clone_one {
+    padding: 8px 13px;
+    vertical-align: middle;
+    margin-bottom: 6px;
+}
+.vc_btn.add_clone_one { outline: none; }

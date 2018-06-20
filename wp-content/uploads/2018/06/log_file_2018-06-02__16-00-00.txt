@@ -1,0 +1,64 @@
+
+---Downloaded files---
+The import files for: Antarctica Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/ycdi
+Data file = /Users/Caryl/Sites/ycdi/wp-content/themes/pearl-antarctica/pearl-framework/demo-import/import-files/content.xml
+Widget file = /Users/Caryl/Sites/ycdi/wp-content/themes/pearl-antarctica/pearl-framework/demo-import/import-files/widgets.wie
+Customizer file = /Users/Caryl/Sites/ycdi/wp-content/themes/pearl-antarctica/pearl-framework/demo-import/import-files/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Pearl - Recent Posts - Recent Posts - Imported
+Tag Cloud - No Title - Imported
+Instagram by PearlThemes - Instagram - Imported
+Pearl - Advertisement Widget - Recommended - Imported
+
+Footer First Column : 
+
+Text -   - Imported
+
+Footer Second Column : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Third Column : 
+
+Pearl - Recent Posts - Recent Posts - Imported
+
+Footer Fourth Column : 
+
+Twitter by PearlThemes - Latest Tweets - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

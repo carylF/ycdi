@@ -1,0 +1,573 @@
+/* Add your custom css in this file */
+
+/* SCROLL */
+#scroll-to-top {
+  background-color: #523592;
+}
+
+/*HEADER*/
+.sticky{
+  background: #523592;
+}
+
+.header-one.sticked, .header-three.sticked, .sticked.header-four, .sticked.header-one {
+    padding-top: 0px;
+    padding-bottom: 0;
+    background-color: rgba(82, 53, 146, 0.7);
+}
+
+
+/*MAIN CONTAINER*/
+
+.main-container {
+  padding-top: 60px;
+}
+
+.main-container.fluid-page {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+
+/*RESPONSIVE */
+
+@media (min-width: 768px){
+.header {
+   padding-top: 0px;
+   padding-bottom: 0px ;
+}
+}
+@media (min-width: 992px) {
+  .main-container {
+    padding-top: 60px;
+  }
+  
+  #who-we-are .section-header.text-center p:first-of-type {
+    padding-left: 5%;
+    padding-right: 5%;
+        padding-right: 5%;
+    color: #222;
+  } 
+}
+
+@media (min-width: 1200px) {
+  .main-container {
+    padding-top: 60px;
+    padding-bottom: 0 !important 
+  }
+  
+  .header-three, .header-four, .header-one {
+    padding-top: 0px;
+    padding-bottom: 0px ;
+  }
+  
+  #how-we-do-it .feature-item-3 .feature-content {
+    height: 300px;
+  }
+}
+
+/*-----------------------------*\
+     Removing top margin from these pages
+\*------------------------------*/
+#home-we-are, #about-us-heading, #ambas-content,
+#women-page-header,#camp-section {
+  margin-top: -60px;
+}
+
+
+
+
+/*------------------------------------*\
+    12. Home Page styles
+\*------------------------------------*/
+.section-header .section-title {
+     margin-bottom: 0px; 
+}
+
+
+#who-we-are p{
+  font-size: 20px;
+  line-height: 3;
+}
+
+#who-we-are .section-header .section-title.bold {
+  font-size: 50px;
+}
+
+/*------------------------------------*\
+    12. About Page styles
+\*------------------------------------*/
+
+#about-lead .lead{
+  margin-bottom: 70px;
+  
+}
+
+.about-section-title{
+  font-size: 35px;
+}
+
+.about-bac-info{
+  font-size: 18px;
+}
+
+.top-header-section .lead{
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+
+#empower-box{
+  background-color: #fff100;
+  border: #fff solid 6px;
+}
+
+#connect-box{
+  background-color: #5ec5e6;
+  border: #fff solid 6px;
+}
+
+#impact-box{
+  background-color: #49f9a5;
+  border: #fff solid 6px;
+}
+
+#inspire-box{
+  background-color: #df4ee2;
+  border: #fff solid 6px;
+}
+
+#how-we-do-it{
+  padding-bottom: 50px;
+}
+
+#how-we-do-it .feature-item-3 .title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.feature-item-3 p{
+  color: #222;
+}
+
+.feature-item-3 .group span {
+    margin: 6px 4.4px;
+    background: #fff;
+}
+
+
+.skill {
+    margin-bottom: 30px;
+}
+.skill h4 {
+    color: #0E0A1A;
+    font-weight: 300;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.skill h4 span {
+    float: right;
+    color: #666;
+}
+.progress {
+    background: #f2f2f2;
+    width: 100%;
+    height: 1px;
+}
+.progressbar {
+    background: #333;
+    height: 100%;
+}
+.about-area .section-body h3 {
+    margin-bottom: 15px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
+.banner-bottom {
+    background: #222;
+    padding: 40px 0;
+}
+.banner-bottom .text p {
+    text-align: left;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 0;
+    line-height: 40px;
+}
+.banner-bottom .button p {
+    text-align: right;
+    margin-bottom: 0;
+}
+
+
+/*BLOG*/
+.our-blog .blog-post .entry-header .post-meta{
+  height: 100px;
+}
+
+.our-blog .post-title {
+    height: 30px;
+}
+
+/*AMBASSADOR PAGE*/
+#ambas-content{
+  padding-bottom: 30px;
+}
+
+.ambas-tabs a {
+    border-color: #523592;
+    background-color: #523592;
+    line-height: 2;
+    padding: 16px 79px;
+}
+
+
+
+.ambas-team-headers{
+  background-color: #fff100;
+    color: #222;
+    line-height: 3;
+}
+#ambassador-tab-section .section-header .text-center{
+  padding-top: 50px;
+}
+
+.ambas-team-headers .feature-item-3 .title {
+    font-size: 18px;
+    font-weight: bold;
+}
+#ambassador-team-row1, ambassador-team-row2{
+  padding-bottom: 30px;
+}
+
+
+#ambas-content .section-header {
+    margin-bottom: 0!important;
+}
+/* SERVICE SECTION STYLE */
+
+#ambas-prog{
+  background: #19A990;
+}
+
+#mentor-prog{
+  background: #8BC66A;
+}
+
+#camp-prog{
+  background: #f872b6;
+}
+
+#work-prog{
+  background: #602f92;
+}
+
+#service-more-btn{
+  background: purple;
+  float: left;
+  right: -28%;
+  position: relative;
+}
+
+.services {
+    background: #fff;
+}
+.services .service-icon {
+    margin: 10px 0 10px 0;
+    text-align: center;
+}
+.services .icon {
+    width: 4em;
+    height: 4em;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+.services .icon i {
+    color: #fff;
+    text-shadow: -1px -1px 0 #555, 1px -1px 0 #555, -1px 1px 0 #555, 1px 1px 0 #555;
+    transition: .3s ease;
+    margin-bottom: 30px;
+    font-size: 3em!important;
+    line-height: 2em;
+}
+.service-single {
+    margin-bottom: 15px;
+}
+.service-description {
+    margin: 30px 0;
+    height: 60vh;
+  
+}
+.service-description h4 {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.service-description p {
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.service-description a {
+    padding: 12px 20px;
+    margin-top: 15px;
+    display: inline-block;
+    text-decoration: none;
+    border: #ccc solid 1px;
+    border-radius: 40px;
+    color: #777;
+}
+.service-description a:hover {
+    color: #fff;
+    background: #555;
+    border-color: #555;
+}
+.heading_bg {
+    position: absolute;
+/*    color: #343434;*/
+    color: purple;
+    opacity: 0.04;
+    font-size: 10em;
+    left: 0;
+    top: -30px;
+    right: 0px;
+    bottom: 0;
+    font-weight: 600;
+    margin: auto;
+    display: inline-block;
+}
+.text-center {
+    text-align: center;
+}
+
+/* MENTORSHIP PAGE */
+.container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#women-page-header .section-header .section-title{
+  font-size: 40px;
+}
+
+#women-page-header .section-header.text-center p:first-of-type {
+  padding-left: 15%;
+  padding-right: 15%;
+  color: #222;
+  font-size: 20px;
+}
+
+#key-objectives li{
+  color: #fff;
+}
+
+#program-highlights,#key-objectives {
+     position: relative;
+    left: -120px;
+    box-sizing: border-box;
+    width: 1440px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+
+
+#program-highlights li, #key-objectives li{
+  font-size: 18px;
+}
+
+
+/* SUMMER CAMP */
+#camp-section .section-header.text-center p:first-of-type {
+    padding-left: 5%;
+    padding-right: 5%;
+  } 
+
+#camp-key-objectives{
+  padding-bottom: 50px;
+}
+
+#camp-key-objectives ul li {
+  font-size: 18px;
+    list-style: none;
+    color: #222;
+    line-height: 2;
+}
+
+#camp-key-objectives ul li span {
+  font-weight: 600;
+}
+
+#more-info-camp{
+  padding-bottom: 100px;
+    padding-top: 50px;
+
+}
+
+#more-info-camp .feature-box >div{
+  padding-right: 35px;
+  text-align: left;
+}
+
+#more-info-camp .feature-box >div>p>span{
+  font-size: 19px;
+}
+
+/* start da css for da buttons */
+.btn {
+  border-radius: 5px;
+  padding: 15px 25px;
+  font-size: 22px;
+  text-decoration: none;
+  margin: 20px;
+  color: #fff;
+  position: relative;
+  display: inline-block;
+}
+
+.btn:active {
+  transform: translate(0px, 5px);
+  -webkit-transform: translate(0px, 5px);
+  box-shadow: 0px 1px 0px 0px;
+}
+
+.blue {
+  background-color: #55acee;
+  box-shadow: 0px 5px 0px 0px #3C93D5;
+}
+
+.blue:hover {
+  background-color: #6FC6FF;
+}
+
+.green {
+  background-color: #2ecc71;
+  box-shadow: 0px 5px 0px 0px #15B358;
+}
+
+.green:hover {
+  background-color: #48E68B;
+}
+
+.red {
+  background-color: #e74c3c;
+  box-shadow: 0px 5px 0px 0px #CE3323;
+}
+
+.red:hover {
+  background-color: #FF6656;
+}
+
+.purple {
+  background-color: #523592;
+  box-shadow: 0px 5px 0px 0px #82409D;
+}
+
+.purple:hover {
+  background-color: #B573D0;
+}
+
+.orange {
+  background-color: #e67e22;
+  box-shadow: 0px 5px 0px 0px #CD6509;
+}
+
+.orange:hover {
+  background-color: #FF983C;
+}
+
+.yellow {
+  background-color: #fff100;
+  box-shadow: 0px 5px 0px 0px #D8AB00;
+}
+
+.yellow:hover {
+  background-color: #FFDE29;
+}
+
+
+.btn-default {
+    color: #fff;
+    background-color: #222;
+    border-color: #d9d9d9;
+}
+
+/*HOW WE WORK STYLES*/
+#how-we-work{
+  padding-bottom: 60px;
+}
+
+
+
+
+/*CONTACT PAGE */
+.contact-form {
+    padding-bottom: 40px;
+}
+
+.contact-form input[type="submit"] {
+    padding: 10px 18px;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 600;
+    border: 1px solid purple;
+    background-color: purple;
+}
+
+
+/*FOOTER*/
+/* SOCIAL FOOTER*/
+
+.social-footer {
+   padding: 20px 0;
+}
+
+.ycdi-icon{
+    color: purple;
+}
+
+.social-footer ul {
+    padding: 0;
+    text-align: center;
+}
+.social-footer ul li {
+    list-style: none;
+    display: inline-block;
+}
+.social-footer ul li a {
+    padding: 0 30px;
+    font-size: 24px;
+}
+.social-footer ul li a:hover {
+    color: #999;
+}
+/* TEXT FOOTER */
+
+.footer {
+    padding: 20px 0;
+}
+.footer p {
+    text-align: center;
+    color: #555;
+    margin: 0;
+    font-size: 14px;
+}
+.footer a {
+    color: #555;
+}
+
+
+.row {
+    margin: 0;
+}
+
+
+/*REUSE*/
+.theres-more .section-title {
+  font-size: 35px;
+}
