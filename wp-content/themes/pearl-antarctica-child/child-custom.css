@@ -48,7 +48,14 @@
         padding-right: 5%;
     color: #222;
   } 
+  
+  .subscribe {
+    padding-bottom: 0px; 
+  }
+  
 }
+
+
 
 @media (min-width: 1200px) {
   .main-container {
@@ -61,6 +68,10 @@
     padding-bottom: 0px ;
   }
   
+  .subscribe {
+    padding-bottom: 0px; 
+  }
+  
   #how-we-do-it .feature-item-3 .feature-content {
     height: 300px;
   }
@@ -69,8 +80,7 @@
 /*-----------------------------*\
      Removing top margin from these pages
 \*------------------------------*/
-#home-we-are, #about-us-heading, #ambas-content,
-#women-page-header,#camp-section {
+#home-we-are, {
   margin-top: -60px;
 }
 
@@ -566,6 +576,11 @@
     margin: 0;
 }
 
+.wpb-js-composer .vc_tta-color-violet.vc_tta-style-modern .vc_tta-tab.vc_active>a {
+    border-color: #f0f0f0;
+    background-color: #fff100;
+    color: #666;
+}
 
 /*REUSE*/
 .theres-more .section-title {
